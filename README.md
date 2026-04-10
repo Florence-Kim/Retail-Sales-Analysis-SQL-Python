@@ -1,32 +1,29 @@
-# Retail-Sales-Analysis-SQL-Python
-Analyzing e-commerce trends and payment methods using SQL and Python
-
 
 # Retail Sales Analysis (SQL + Python)
 
-## 📌 Objective
+## Objective
 Analyze retail sales data to uncover trends, customer behavior, and revenue drivers.
 
-## 🛠 Tools Used
-- Python (Pandas, Matplotlib)
-- SQL (SQLite)
+## Tools Used
+- Python (basic data cleaning and preprocessing)
+- SQL (SQLite for analysis)
 
-## 📊 Key Questions
+## Key Questions
 - What are the top-selling products?
 - How does revenue change over time?
 - Which customers contribute the most revenue?
 
-## 📈 Key Insights
+## Key Insights
 - Sales peak during specific months indicating seasonality
 - A small percentage of customers drive majority of revenue
 - Certain product categories dominate overall sales
 
-## 📁 Project Structure
-- notebook.ipynb → Data cleaning & analysis
-- queries.sql → SQL analysis
-- dataset.csv → Raw data
+## Project Structure
+- **Retail_Analysis.ipynb**: The Google Colab notebook containing Python cleaning, SQL analysis, and visualizations.
+- **online_retail_data.csv**: The raw transaction dataset (sourced from Kaggle).
+- **README.md**: Executive summary and project documentation.
 
-## 🚀 Business Recommendations
+## Business Recommendations
 - Focus marketing on high-value customers
 - Increase stock before peak seasons
 - Promote top-performing products
