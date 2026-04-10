@@ -31,4 +31,5 @@ This project demonstrates a full data analytics workflow: extracting raw retail 
 *(Once the analysis is complete, I will insert a screenshot of the final dashboard and my top 3 business recommendations here.)*
 
 ---
-**Data Source:** [Link to the Kaggle Dataset used]
+**Data Source:** Retail Sales Dataset (Mohammad Talib) 
+(https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
